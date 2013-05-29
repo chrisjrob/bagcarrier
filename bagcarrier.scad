@@ -1,3 +1,8 @@
+// bagcarrier.scad
+// Simple carrier to help carry multiple shopping bags
+// 
+// Copyright 2013 Christopher Roberts
+
 // Global Parameters
 width     = 100;
 height    = 100;
