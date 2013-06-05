@@ -1,6 +1,9 @@
 Bag Carrier
 ===========
 
+Copyright (C) Christopher Roberts
+
+Licensed under the [GPL v3 Licence](https://github.com/chrisjrob/avonpumpclip/blob/master/LICENCE.md "Read licence")
 
 Description
 -----------
